@@ -2,7 +2,7 @@
 
 Este é um projeto de uma aplicação simples de lista de tarefas (To Do List).
 
-Desenvolvido em React com TypeScruot. Ele permite que os usuários adicionem, marquem como concluídas e excluam tarefas, promovendo organização no dia a dia.
+Desenvolvido em React com TypeScript. Ele permite que os usuários adicionem, marquem como concluídas e excluam tarefas, promovendo organização no dia a dia.
 
 # Funcionalidades
 
